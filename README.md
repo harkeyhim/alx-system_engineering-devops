@@ -1,1 +1,1 @@
-Where am I?
+0x01. Shell, permissions
